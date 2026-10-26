@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 108 108" role="img" aria-labelledby="title desc">
+  <title id="title">Unscroll logo</title>
+  <desc id="desc">A mint circular mark crossed by a diagonal line on a charcoal background.</desc>
+  <rect width="108" height="108" rx="28" fill="#142420"/>
+  <path d="M54 14a40 40 0 1 0 0 80 40 40 0 1 0 0-80Z" fill="none" stroke="#86E5C0" stroke-width="10" stroke-linecap="round"/>
+  <path d="m30 30 50 50" fill="none" stroke="#86E5C0" stroke-width="10" stroke-linecap="round"/>
+  <path d="M62 32c15 3 21 15 20 28" fill="none" stroke="#0B1215" stroke-width="8" stroke-linecap="round"/>
+</svg>
